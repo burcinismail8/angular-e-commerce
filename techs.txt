@@ -1,0 +1,4 @@
+1. TypeScript
+2. SCSS
+3. Angular
+4. PrimeNG
